@@ -61,7 +61,7 @@ export default function Projects() {
       image: "/glowve.jpg",
       description:
         "Glowve is a modern e-commerce platform designed to deliver a smooth, visually engaging shopping experience with essential features for browsing and purchasing products.",
-      technologies: ["React", "TypeScript"],
+      technologies: ["React", "TypeScript", "Tailwind Css"],
       liveUrl: "https://https://glowve-theta.vercel.app/",
       githubUrl: "https://github.com/ZinnyEdmund/Glowve.git",
     },
@@ -78,10 +78,10 @@ export default function Projects() {
       title: "Porfolio",
       image: "/port.jpg",
       description:
-        "Ventree is an easy-to-use bookkeeping and business management platform designed to simplify financial tracking for SMEs.",
-      technologies: ["React", "TypeScript", "node.js", "express.js", "redis"],
-      liveUrl: "https://ventree.app/",
-      githubUrl: "https://github.com/Okafor-Ifeanyi/Ventree.git",
+        "A showcase of my projects and skills, demonstrating modern, responsive, and user-friendly web applications.",
+      technologies: ["React", "TypeScript", "Tailwind CSS", ],
+      liveUrl: "https://mycv-ashen.vercel.app/",
+      githubUrl: "https://github.com/ZinnyEdmund/My-Portfolio.git",
     },
   ];
 
