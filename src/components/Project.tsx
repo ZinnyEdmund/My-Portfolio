@@ -62,7 +62,7 @@ export default function Projects() {
       description:
         "Glowve is a modern e-commerce platform designed to deliver a smooth, visually engaging shopping experience with essential features for browsing and purchasing products.",
       technologies: ["React", "TypeScript", "Tailwind Css"],
-      liveUrl: "https://https://glowve-theta.vercel.app/",
+      liveUrl: "https://glowve-theta.vercel.app/",
       githubUrl: "https://github.com/ZinnyEdmund/Glowve.git",
     },
     {
