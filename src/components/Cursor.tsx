@@ -5,7 +5,7 @@ export default function CustomCursor() {
   const [cursorVariant, setCursorVariant] = useState('default');
 
   useEffect(() => {
-    const handleMouseMove = (e: string) => {
+    const handleMouseMove = (e: MouseEvent) => {
       setMousePosition({ x: e.clientX, y: e.clientY });
     };
     
