@@ -31,7 +31,7 @@ export default function About() {
 
   const stats = [
     { value: "2+", label: "Years Learning" },
-    { value: "7+", label: "Projects Built" },
+    { value: "9+", label: "Projects Built" },
     { value: "6+", label: "Technologies" },
     { value: "100%", label: "Commitment" }
   ];
