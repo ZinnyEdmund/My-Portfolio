@@ -24,7 +24,7 @@ export default function Contact() {
 
   const contactInfo = [
     { icon: Mail, label: "Email", value: "edmunddebby24@gmail.com", href: "mailto:edmunddebby24@gmail.com" },
-    { icon: Phone, label: "Phone", value: "+(234) 703-074-8457", href: "tel:+2347030748457" },
+    { icon: Phone, label: "Phone", value: "+(234) 901-480-8878", href: "tel:+2349014808878" },
     { icon: MapPin, label: "Location", value: "Enugu, NG" }
   ];
 
